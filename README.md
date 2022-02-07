@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Techonolgy
 - 🌱 I’m currently learning ... Software Development
 - 💞️ I’m looking to collaborate on ... Microsoft
-- 📫 How to reach me ...
+- 📫 How to reach me ... jehujimenez@hotmail.com
 
 <!---
 JehuJmz/JehuJmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
