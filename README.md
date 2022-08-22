@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JehuJmz
 - 👀 I’m interested in ... Techonolgy
 - 🌱 I’m currently learning ... Software Development
-- 💞️ I’m looking to collaborate on ... Microsoft
 - 📫 How to reach me ... jehujimenez@hotmail.com
 
 <!---
