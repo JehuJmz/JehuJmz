@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JehuJmz
-- 👀 I’m interested in ... Techonolgy
+- 👀 I’m interested in ... Techonolgy, Cloud, Cybesecurity, Software Development
 - 🌱 I’m currently learning ... Software Development
 - 📫 How to reach me ... jehujimenez@hotmail.com
 
