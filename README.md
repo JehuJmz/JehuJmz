@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JehuJmz
-- 👀 I’m interested in ... Software Engineer, Cloud, Cybesecurit, Technology
+- 👀 I’m interested in ... Software Engineering, Cloud Technologies, Cybesecurity, Software Development
 - 🌱 I’m currently learning ... Software Development, Web Security Testing
 - 📫 How to reach me ... jehujimenez@hotmail.com
 
