@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Software Development, Web Security Testing
 - 📫 How to reach me ... jehujimenez@hotmail.com
 
-![microsoft-certified-security-compliance-and-identity-fundamentals](https://user-images.githubusercontent.com/58542993/221654128-8e057eb7-6001-4586-b374-6de5ae808438.png)
+![microsoft-certified-security-compliance-and-identity-fundamentals](https://user-images.githubusercontent.com/58542993/226681876-33325cbb-e9cc-4399-af3d-2a480da0c6da.png)
 
 
 <!---
